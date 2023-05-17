@@ -72,10 +72,10 @@
   <folder name="Application" id="id-4f8adb73bfd242308695e8aeb79b062f" type="application"/>
   <folder name="Technology &amp; Physical" id="id-5848d85c249045eeaea4aaed80066399" type="technology"/>
   <folder name="Motivation" id="id-ec0560dd2dd94a9985d2db1f28d8abe5" type="motivation">
-    <element xsi:type="archimate:Stakeholder" name="Dylan (Dono)" id="id-448a131f297a46778fa62157f50b7fe4"/>
+    <element xsi:type="archimate:Stakeholder" name="Dylan (Proprietário)" id="id-448a131f297a46778fa62157f50b7fe4"/>
     <element xsi:type="archimate:Driver" name="Não podem existir mais atendimentos informais aos clientes" id="id-5daca1fafeaa4c2ea91e1beab411ffcf"/>
     <element xsi:type="archimate:Value" name="Renovar contratos com os clientes satisfeitos com o atendimento. Hoje, temos em média R$180.000 de cancelamentos por ano por conta de insatisfação com o suporte." id="id-3011e04e5b53402cb5158512c00b48fd"/>
-    <element xsi:type="archimate:Value" name="Clientes satisfeitos vão trazer novos contratos. Clientes satisfeitos ampliam seus negócios na média de R$50.000 por ano. Esses clientes geram mais R$95.000 em média de novos contratos com clientes indicados por eles." id="id-a61cbda9b83343099c1be6627d59539c"/>
+    <element xsi:type="archimate:Value" name="Clientes satisfeitos vão trazer novos contratos. Clientes satisfeitos ampliam seus negócios na média de R$50.ooo por ano. Esses clientes geram mais R$95.ooo em média de novos contratos com clientes indicados por eles." id="id-a61cbda9b83343099c1be6627d59539c"/>
     <element xsi:type="archimate:Assessment" name="Todos os chamados técnicos de suporte ao cliente sejam gerenciados em sistema digital" id="id-6346051179a94a5d98432a877f20bafe"/>
     <element xsi:type="archimate:Assessment" name="Ter meios de conhecer o grau/nível de satisfação dos clientes com o suporte" id="id-7ed0e486d32c428b851b4747da1c7bfc"/>
     <element xsi:type="archimate:Goal" name="Precisa criar um mecanismos de registro de ocorrências de suporte em sistema" id="id-5f0bdf3f0603443d88334b503cf828aa"/>
